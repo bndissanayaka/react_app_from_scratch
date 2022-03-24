@@ -1,0 +1,28 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "This is a sample app to learn how to create a react app from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bndissanayaka/react_app_from_scratch.git"
+  },
+  "author": "D.A.B Nirmani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bndissanayaka/react_app_from_scratch/issues"
+  },
+  "homepage": "https://github.com/bndissanayaka/react_app_from_scratch#readme",
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "eslint-plugin-react": "^7.29.4",
+    "parcel": "^2.4.0"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
