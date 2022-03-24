@@ -2,7 +2,7 @@
 
 This is my first react app built from scratch without create-react-app.
 
-It is needed to install npm installed beforehand. Then followed these steps.
+It was needed to install npm beforehand. Then followed these steps.
 
 Installed react, react-dom, parcel, eslint.
 
